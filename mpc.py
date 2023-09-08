@@ -1,6 +1,6 @@
 #Yanira Manzano
 #4/7/2020
-#Assignment 10: Modified Palindrome Check
+#Modified Palindrome Check
 
 import time
 
